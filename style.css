@@ -1,0 +1,44 @@
+body{
+    background: linear-gradient(45deg, black, transparent);
+    
+}
+
+#container{
+    
+    display: flex;
+    
+}
+
+#user{
+    border-radius: 50px;
+    background-color: #dbad71;
+    cursor: pointer;
+}
+
+h2,h3,h4{
+    margin: 0;
+    padding: 2px 18px;
+}
+hr{
+    width: 96%;
+    margin: 0 auto;
+}
+
+div{
+    margin: 10px;
+}
+
+.select{
+    border: 3px solid black;
+}
+
+#posts{
+    width: 920px;
+    background-color: #bbb;
+    border-radius: 10px;
+}
+
+#post{
+    background-color: #eee;
+    border-radius: 10px;
+}
